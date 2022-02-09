@@ -3,7 +3,7 @@
 This repository contains solutions for the assignments of Programming Languages Theory course I took at Bar-Ilan University.
 The course was about programming languages implementations and designs, and about compilers, but the recitations of the course were done through the use of JavaScript.
 
-The repository is dןvided to three parts:
+The repository is divided to three parts:
 
 #### Closures
 
