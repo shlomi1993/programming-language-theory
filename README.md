@@ -13,7 +13,6 @@ The repository is divided to three parts:
 
 * In this section you can find the implementation of IIFE functions that rely on the JavaScript Closures.
 
-
 #### Concurrency
 
 * JavaScript has a runtime model based on an event loop, which is responsible for executing the code, collecting and processing events, and executing queued sub-tasks. This model is quite different from models in other languages like C and Java. Also, this model allows JavaScript Concurrency.
@@ -22,7 +21,6 @@ The repository is divided to three parts:
 
 * In this section you can find different code snippets that make requests to several servers - concurrently or sequentially, with AJAX or with XHR, from the browser or by Node.JS.
 
-
 #### Memoization
 
 * Memoization is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.
@@ -30,4 +28,3 @@ The repository is divided to three parts:
 * For further reading: https://en.wikipedia.org/wiki/Memoization
 
 * In this section you can find an implementation of a generic memoization function that gets a recursive non-memoized function such as Fibonacci, and turn it into a memoized-function that makes the calculations in linear time instead of polynomial thanks to memoization/caching technique.
-
